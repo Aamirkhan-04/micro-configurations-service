@@ -1,6 +1,6 @@
 spring: 
   application:
-    name: Condig-Default
+    name: Condig-Dev
 eureka:
   client:
     fetch-registry: true
